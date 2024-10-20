@@ -1,0 +1,1 @@
+The Amazon Clone Website is a web-based application that replicates the core functionality and user interface of Amazon's e-commerce platform. Built using HTML, CSS, and JavaScript, this project focuses on mimicking the look and feel of Amazon's homepage and product pages while implementing essential features like a product grid, cart system, and responsive design.
